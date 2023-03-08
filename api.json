@@ -1,0 +1,39 @@
+{
+  "id": 4619,
+  "uid": "0465034f-f118-43dd-a04e-c1d5c5f1ce4b",
+  "password": "lFrTRQHps9",
+  "first_name": "Man",
+  "last_name": "Cummerata",
+  "username": "man.cummerata",
+  "email": "man.cummerata@email.com",
+  "avatar": "https://robohash.org/consequaturimpeditasperiores.png?size=300x300&set=set1",
+  "gender": "Non-binary",
+  "phone_number": "+961 1-242-907-5386 x83606",
+  "social_insurance_number": "340497262",
+  "date_of_birth": "2004-11-25",
+  "employment": {
+    "title": "Technology Producer",
+    "key_skill": "Self-motivated"
+  },
+  "address": {
+    "city": "Shawndastad",
+    "street_name": "Prince Rue",
+    "street_address": "53803 Efrain Mission",
+    "zip_code": "23593",
+    "state": "Virginia",
+    "country": "United States",
+    "coordinates": {
+      "lat": 87.15995485270489,
+      "lng": 73.29180247543172
+    }
+  },
+  "credit_card": {
+    "cc_number": "4987044250151"
+  },
+  "subscription": {
+    "plan": "Starter",
+    "status": "Blocked",
+    "payment_method": "Cheque",
+    "term": "Payment in advance"
+  }
+}
